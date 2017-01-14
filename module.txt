@@ -27,7 +27,7 @@
 
         }
         {
-            "id" : “joshariassurvival”
+            "id" : "joshariassurvival"
             "minVersion" : "1.0.0-SNAPSHOT"
 
         }
@@ -36,12 +36,6 @@
             "minVersion" : "0.2.0-SNAPSHOT"
         
         }
-        {
-            "id" : "Lightandshadowresources"
-            "minVersion" : "0.2.0-SNAPSHOT"
-        
-        }
-
     ],
     "isGameplay" : "true",
     "serverSideOnly" : false,
