@@ -55,9 +55,9 @@
             { "blockType": "Core:Torch.TOP", "region": { "min": [9, 8, 16], "size": [1, 1, 1]}},
             { "blockType": "Fences:Fence.0", "region": { "min": [1, 7, 17], "size": [1, 4, 1]}},
             { "blockType": "Fences:Fence.0", "region": { "min": [11, 7, 17], "size": [1, 4, 1]}},
-            { "blockType": "JoshariasSurvival:Rock", "region": { "min": [12, 1, 9], "size": [1, 1, 1]}},
-            { "blockType": "JoshariasSurvival:Rock", "region": { "min": [13, 1, 10], "size": [1, 1, 1]}},
-            { "blockType": "JoshariasSurvival:Rock", "region": { "min": [14, 1, 21], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [12, 1, 9], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [13, 1, 10], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [14, 1, 21], "size": [1, 1, 1]}},
             { "blockType": "LightAndShadowResources:WhiteLeaf", "region": { "min": [2, 7, 16], "size": [9, 1, 1]}},
             { "blockType": "LightAndShadowResources:WhiteLeaf", "region": { "min": [1, 7, 18], "size": [1, 1, 4]}},
             { "blockType": "LightAndShadowResources:WhiteLeaf", "region": { "min": [11, 7, 18], "size": [1, 1, 4]}},
@@ -196,6 +196,9 @@
             { "blockType": "engine:air", "region": { "min": [14, 2, 21], "size": [1, 3, 1]}},
             { "blockType": "engine:air", "region": { "min": [-2, 1, 22], "size": [1, 10, 1]}},
             { "blockType": "engine:air", "region": { "min": [14, 1, 22], "size": [1, 4, 1]}},
+            { "blockType": "engine:air", "region": { "min": [12, 1, 9], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [13, 1, 10], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [14, 1, 21], "size": [1, 1, 1]}},
             { "blockType": "engine:air", "region": { "min": [14, 11, 22], "size": [1, 1, 1]}}
     ]
 },

@@ -5,10 +5,10 @@
     },  
     "SpawnBlockRegions": {
       "regionsToFill": [
-            { "blockType": "JoshariasSurvival:Rock", "region": { "min": [-5, 0, 1], "size": [1, 1, 1]}},
-            { "blockType": "JoshariasSurvival:Rock", "region": { "min": [-5, 0, 7], "size": [1, 1, 1]}},
-            { "blockType": "JoshariasSurvival:Rock", "region": { "min": [3, 0, 12], "size": [1, 1, 1]}},
-            { "blockType": "JoshariasSurvival:Rock", "region": { "min": [0, 0, 13], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [-5, 0, 1], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [-5, 0, 7], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [3, 0, 12], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [0, 0, 13], "size": [1, 1, 1]}},
             { "blockType": "LightAndShadowResources:bannerBlack1.BACK", "region": { "min": [-11, 15, 14], "size": [1, 4, 1]}},
             { "blockType": "LightAndShadowResources:bannerBlack1.BACK", "region": { "min": [-8, 15, 14], "size": [1, 4, 1]}},
             { "blockType": "LightAndShadowResources:bannerBlack1.BACK", "region": { "min": [-4, 15, 14], "size": [1, 4, 1]}},
