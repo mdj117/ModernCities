@@ -1,9 +1,9 @@
 {
-    "id" : "Cities",
+    "id" : "ModernCities",
     "version" : "0.1.0-SNAPSHOT",
     "author" : "mdj117",
-    "displayName" : "Cities",
-    "description" : ".",
+    "displayName" : "ModernCities",
+    "description" : "xyz.",
     "dependencies" : [
         {
             "id" : "DynamicCities",
