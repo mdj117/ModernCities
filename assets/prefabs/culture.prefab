@@ -1,0 +1,9 @@
+{
+  "Culture" : {
+    "name" : "Modern Society",
+    "buildingNeedPerZone" : {"RESIDENTIAL" : 5, "COMMERCIAL" : 8},
+    "growthRate" : 1000,
+    "availableBuildings" : ["Shop", "House"],
+    "residentialZones" : ["RESIDENTIAL"]
+  }
+}

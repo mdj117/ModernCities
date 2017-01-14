@@ -1,0 +1,12 @@
+{
+  "GenericBuilding": {
+    "name": "House",
+    "templateNames": [
+      "ModernCities:building3"
+    ],
+    "zone": "RESIDENTIAL",
+    "minSize": [19, 16],
+    "maxSize": [24, 24],
+    "isEntity": true
+  }
+}

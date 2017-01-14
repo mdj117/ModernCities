@@ -1,0 +1,29 @@
+{
+  "StructureTemplate" : {
+    "type": "DynamicCities:building",
+    "front": "FRONT"
+    },  
+    "SpawnBlockRegions": {
+      "regionsToFill": [
+            { "blockType": "Core:Dirt", "region": { "min": [-3, -1, 0], "size": [6, 1, 5]}},
+            { "blockType": "Core:DoorBottom.BACK", "region": { "min": [-2, 0, 0], "size": [1, 1, 1]}},
+            { "blockType": "Core:DoorTop.BACK", "region": { "min": [-2, 1, 0], "size": [1, 1, 1]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [-3, 0, 0], "size": [1, 2, 1]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [-3, 2, 0], "size": [3, 1, 1]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [-3, 3, 0], "size": [6, 1, 1]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [-1, 0, 0], "size": [4, 1, 1]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [-1, 1, 0], "size": [1, 1, 1]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [2, 1, 0], "size": [1, 2, 1]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [-3, 0, 1], "size": [1, 4, 3]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [2, 0, 1], "size": [1, 4, 3]}},
+            { "blockType": "Core:OakTrunk", "region": { "min": [-3, 0, 4], "size": [6, 4, 1]}},
+            { "blockType": "ManualLabor:DirtyGlass", "region": { "min": [0, 1, 0], "size": [2, 2, 1]}},
+            { "blockType": "engine:air", "region": { "min": [-2, 0, 1], "size": [4, 4, 3]}},
+    ]
+},
+  /* For debugging purposes it is an item: */
+  "parent" : "structureTemplates:structureSpawnItem",
+  "DisplayName" : {
+    "name" : "Spawn ModernCities:Poorhouse"
+  }
+}

@@ -1,0 +1,49 @@
+{
+    "id" : "Cities",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "mdj117",
+    "displayName" : "Cities",
+    "description" : ".",
+    "dependencies" : [
+        {
+            "id" : "DynamicCities",
+            "minVersion" : "0.2.0-SNAPSHOT"
+        },
+        {
+            "id" : "StructureTemplates",
+            "minVersion" : "0.1.0-SNAPSHOT"
+        },
+        {
+            "id" : "StructuralResources",
+            "minVersion" : "1.0.0-SNAPSHOT"
+        },
+        {
+            "id" : "Fences",
+            "minVersion" : "0.1.1-SNAPSHOT"
+        }
+        {
+            "id" : "WoodAndStone"
+            "minVersion" : "0.1.2-SNAPSHOT"
+
+        }
+        {
+            "id" : “joshariassurvival”
+            "minVersion" : "1.0.0-SNAPSHOT"
+
+        }
+        {
+            "id" : "Lightandshadowresources"
+            "minVersion" : "0.2.0-SNAPSHOT"
+        
+        }
+        {
+            "id" : "Lightandshadowresources"
+            "minVersion" : "0.2.0-SNAPSHOT"
+        
+        }
+
+    ],
+    "isGameplay" : "true",
+    "serverSideOnly" : false,
+    "defaultWorldGenerator" : "DynamicCities:DynamicCitiesPerlin"
+}

@@ -1,0 +1,12 @@
+{
+  "GenericBuilding": {
+    "name": "Ministry of truth",
+    "templateNames": [
+      "ModernCities:building4"
+    ],
+    "zone": "RESIDENTIAL",
+    "minSize": [19, 16],
+    "maxSize": [24, 24],
+    "isEntity": true
+  }
+}
