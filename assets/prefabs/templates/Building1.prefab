@@ -111,10 +111,9 @@
             { "blockType": "engine:air", "region": { "min": [10, 4, 3], "size": [1, 1, 1]}},
             { "blockType": "engine:air", "region": { "min": [0, 0, 4], "size": [2, 10, 1]}},
             { "blockType": "engine:air", "region": { "min": [0, 0, 5], "size": [2, 1, 1]}},
-            { "blockType": "engine:air", "region": { "min": [0, 1, 5], "size": [13, 9, 1]}},
+            { "blockType": "engine:air", "region": { "min": [0, 1, 5], "size": [13, 9, 1]}}
     ]
 },
-  /* For debugging purposes it is an item: */
   "parent" : "structureTemplates:structureSpawnItem",
   "DisplayName" : {
     "name" : "Spawn ModernCities:house"
