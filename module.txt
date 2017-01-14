@@ -26,16 +26,20 @@
             "minVersion" : "0.2.0-SNAPSHOT"
         },
         {
-        "id" : "ManualLabor"
-        "minVersion" : "1.1.1-SNAPSHOT"
+            "id" : "ManualLabor"
+            "minVersion" : "1.1.1-SNAPSHOT"
         },
         {
-        "id" : "Books"
-        "minVersion" : "1.0.0-SNAPSHOT"
+            "id" : "Books"
+            "minVersion" : "1.0.0-SNAPSHOT"
         },
         {
-         "id" : "PlantPack"
-         "minVersion" : "1.0.0-SNAPSHOT"
+            "id" : "Core"
+            "minVersion" : "1.0.0-SNAPSHOT"
+        },
+        {
+            "id" : "PlantPack"
+            "minVersion" : "1.0.0-SNAPSHOT"
          }
     ],
     "isGameplay" : "true",
